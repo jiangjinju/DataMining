@@ -1,2 +1,2 @@
 # DataMiningGroupProject
-Kaggle Projects, Horro text classification and iceberg identification; Prof. M. Dalkilic; team: Shreejith Panicker (skpanick), Khushboo Sah (sahk), Helen Jinju Jiang (heljiang)
+Kaggle Projects, Horro text classification and iceberg identification; Prof. M. Dalkilic; team:  Hellen Jinju Jiang (heljiang),Shreejith Panicker (skpanick), Khushboo Sah (sahk)
