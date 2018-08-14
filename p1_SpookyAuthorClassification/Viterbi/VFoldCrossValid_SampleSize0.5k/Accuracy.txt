@@ -1,0 +1,11 @@
+1 Accuracy:70.8582834331%
+2 Accuracy:68.8622754491%
+3 Accuracy:73.6526946108%
+4 Accuracy:70.6586826347%
+5 Accuracy:69.4610778443%
+6 Accuracy:66.4670658683%
+7 Accuracy:71.4570858283%
+8 Accuracy:69.6606786427%
+9 Accuracy:71.8562874251%
+10 Accuracy:70.6586826347%
+[Finished in 40.9s]
